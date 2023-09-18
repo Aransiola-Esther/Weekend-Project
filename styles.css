@@ -23,11 +23,9 @@
 
 .banner{
     height: 600px;
-    background-image: url(images/banner1.png);
     background-position: center;
     position: relative;
     background-repeat: no-repeat;
-    width: fit-content;
 }
 .mapimage{
     height: 400px;
