@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+}   
+.header-scroll{
+    position: static;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0.75);
+    z-index: 999999;
+}
+.cta{
+    border: 2px solid #215bb3;
+    border-radius: 4px;
+    text-transform: uppercase;
+    padding: 10px 15px !important;
+}
+
+.cta:hover{
+    background-color: #116abd;
+    color: #62a2ec;
+}
+
+.banner{
+    height: 600px;
+    background-image: url(images/banner1.png);
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: fit-content;
+}
+.mapimage{
+    height: 450px;
+    background-image: url(images/map.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.brand-icon{
+    width: 25%;
+}
+#textarea{
+   padding: 10px;
+   margin-left: 7%;
+   width:53%;
+   border: none;
+   border-radius: 5px;
+   background-color: #ebe5e5f1;
+}
+input[type="number"] {
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #ebe5e5f1;
+    padding: 8px;
+    margin-top: 10px;
+    margin-right:27%;   
+}
+#subject {
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #ebe5e5f1;
+    padding: 8px;
+    margin-top: 10px;
+    margin-right:27%;   
+}
+.submit{
+    font-size: 11px;
+    text-transform: none;
+    margin-top: 10px;
+}
+
+input[type="email"] {
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #ebe5e5f1;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 22%;
+}
+#name{
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #ebe5e5f1;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 22%;
+}
+.box1{
+    border: none;
+    background-color: #ebe5e5f1;
+    width: 22%;
+    text-align: center;
+    padding: 2px;
+    font-size: 15px;
+    min-height: auto;
+    margin:9px ;
+    margin-bottom: 0;
+    
+}
+.box{
+    margin: 17%;   
+}  
+.box2{
+    border:none;
+    background-color: white;
+    width: 48%;
+    
+} 
+.testi{
+    border: 2px solid #092c4d;
+    border: #ebe5e5f1;
+}
+.check{
+    justify-content: flex-end;
+    margin-left: 60%;
+    margin-top: 10px;
+}
+.boxbody{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.circle1{
+    border: none;
+    background-color: rgba(62, 194, 247, 0.836);
+    border-radius: 360px;
+    color: white;
+    width: 80%;
+    padding: 1%;
+    
+}
+.fafa{
+    margin-left: 30%;
+    margin-bottom: 30px;
+}
+.circleimg{
+    height: 60px;
+    width: 60px;
+}
+.none{
+    list-style-type: none;
+}
+.none .fa{
+    color: rgb(29, 129, 223);
+}
+
+
+
+
+
+
+
+
+
+  
+
+ 
