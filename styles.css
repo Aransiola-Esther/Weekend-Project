@@ -30,10 +30,11 @@
     width: fit-content;
 }
 .mapimage{
-    height: 450px;
-    background-image: url(images/map.jpg);
-    background-position: center;
-    background-size: cover;
+    height: 400px;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 20%;
+
 }
 
 .brand-icon{
@@ -88,6 +89,9 @@ input[type="email"] {
     padding: 8px;
     margin-top: 10px;
     margin-left: 22%;
+}
+.address{
+    margin-bottom: 0;
 }
 .box1{
     border: none;
@@ -145,7 +149,13 @@ input[type="email"] {
 }
 .none .fa{
     color: rgb(29, 129, 223);
+    margin: 5px;
 }
+.innovative .fa{
+    color: #116abd;
+    margin-right: 10px;
+}
+
 
 
 
